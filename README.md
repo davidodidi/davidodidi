@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @davidodidi
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java Spring
-- 💞️ I’m looking to collaborate on Java Projects
-- 📫 How to reach me ...davidodidi@gmail,com
+- 👋 Hi, I’m @davidodidi, nice to meet you
+
 
 <!---
 davidodidi/davidodidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
