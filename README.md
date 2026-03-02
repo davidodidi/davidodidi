@@ -29,8 +29,6 @@ Architected a production-grade automation framework covering UI, REST API, datab
 *Cypress, JavaScript, Node.js, GitHub Actions*  
 Developed a scalable automation framework with network interception, CRUD API testing, parallel CI execution, and edge-case scenario coverage with AI-augmented testing.
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidodidi&show_icons=true&theme=radical)
-
 ## 📫 Connect with me
 - [LinkedIn](https://linkedin.com/in/davidodidi)
 - [Email](mailto:davidodidi@gmail.com)
