@@ -1,5 +1,5 @@
 # Hi, I'm David Odidi 👋
-QA Automation Engineer | Java, Python, Cypress, Playwright | Passionate about building robust automation frameworks and ensuring high-quality software
+QA Automation Engineer | Java, Python, Selenium, Cypress, Playwright | Passionate about building robust automation frameworks and ensuring high-quality software
 
 ## 🛠️ Skills
 **Languages:** Java, Python, SQL, JavaScript, HTML/CSS  
