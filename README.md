@@ -38,3 +38,4 @@ Designed a **full-stack QA automation framework** for a complex e-commerce appli
 ## 📫 Connect with me
 - [LinkedIn](https://linkedin.com/in/davidodidi)
 - [Email](mailto:davidodidi@gmail.com)
+- [Website](https://www.davidqaportfolio.com)
